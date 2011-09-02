@@ -1,0 +1,142 @@
+	2 VMHD
+24Nordjyske	24Nord
+	3Sat
+	6'eren
+6rn HD	6'eren HD
+	Al Jaz
+	Al Spo
+	AlAoul
+Animal PLanet HD	AnimHD
+Animal Planet	Animal
+	ARD
+	Arte
+	ARTMov
+	ATV
+BBC entertainment	BBC E
+	BBC HD
+BBC World News	BBC W
+Bloomberg Television	Bloom
+Blue Hustler	Blue H
+	C9VMHD
+Canal 9	Canal9
+Canal+ Action	C+Act
+Canal+ Drama	C+Dram
+Canal+ Film HD	C+F HD
+Canal+ First	C+Frst
+Canal+ Hits	C+Hits
+Canal+ Series	Seri
+Canal+ Sport 1	C+ Sp1
+Canal+ Sport 2	C+ Sp2
+Canal+ Sport Extra	C+Extr
+Canal+ Sport HD	C+SpHD
+Cartoon Network	Cartoo
+	CNN
+Discovery Channel	Discov
+Discovery HD	DiscHD
+Discovery ScienceScienc
+Discovery Travel & Living	TraLiv	
+Discovery World	World
+Disney Channel	Disney
+Disney XD	DisnXD
+	dk4
+	DR K
+DR Ramasjang	DR Ram
+DR Update	Update
+	EDTV
+Ekstrakanalen	Ekstra
+	ESC
+ESPN America	ESPN
+ESPN Classic	ESPNcl
+	Euro D
+EuroSport 2 HD	ESp2HD
+EuroSport 2	EuSp 2
+EuroSport HD	EuSpHD
+EuroSport	EuroSp
+	EuStar
+Folketinget	Tinget
+France 2	Franc2
+	Hayat
+	HRT1
+HustlerTV	HUSTtv
+INfokanalen	Infoka
+	Iqraa
+Kanal 4	Kanal4
+Kanal 5 HD	K5 HD
+Kanal 5	Kanal5
+	Kanal7
+	Kral
+	Lig TV
+	MAX
+	MBC
+	Me TV
+	Mezzo
+Motors TV	Motors
+	MTV HD
+MTV Hits	MTVhit
+MTV Rocks	MTVRoc
+MTV	MTVDan
+Nat Geo Wild HD	WildHD
+National Geographic Channel	NatGeo
+Nat Geo Wild	NGWild
+National Geographic Channel HD	NGC HD
+	NDR
+Nickelodeon	Nickel
+NRK 1	NRK1
+	Pink+
+PlayBoy	PlayBy
+Playhouse Disney	PHouse
+	Polsa2
+Pro 7	Pro7
+	RaiUno
+	Realit
+	Roj TV
+	RTCG
+	RTK 1
+	RTL
+	RTSsat
+Sat.1	Sat1
+	SET
+Showtime	Showtm
+	ShowTV
+Silver HD	SilvHD
+	Spice
+	Star!
+	STV
+	SVT1
+	SVT2
+	TCM
+	TGRT
+	ThaiTV
+The Voice TV	Voice
+Travel Channel	Travel
+	Trkmax
+	TRT
+	TV Pol
+TV1000 Action	TV Act
+TV1000 Classic	TV Cla
+TV1000 Drama	TV Dra
+TV1000 Family	TV Fam
+TV1000 HD	1000HD
+TV1000 Nordic	TV Nor
+TV2 Naboregion	2 Nabo
+TV2 Charlie	Charli
+TV2 Film HD	FilmHD
+TV2 Film	2Film
+TV2 News	2News
+TV2 Norge	Norge2	
+TV2 Sport HD	2Sp HD
+TV2 Sport	2Sport
+TV2 Zulu	Zulu
+	TV3
+TV3 Puls	3Puls
+	TV3+
+TV3+HD	TV3+ HD
+	TV4
+	TVE
+VH1 Classic	VH1Cla
+Viasat Explorer	Explor
+Viasat Golf	Golf
+Viasat History	Histor
+VIasat Nature+Crime	Via NC
+	VOX
+	ZDF
