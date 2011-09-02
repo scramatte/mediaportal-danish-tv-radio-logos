@@ -1,0 +1,53 @@
+//css_reference "MpeCore.dll";
+
+using MpeCore.Classes;
+using MpeCore;
+using System;
+using System.IO;
+using System.Windows.Forms; 
+
+public class Script
+{
+	public static void Main(PackageClass packageClass, ActionItem actionItem)
+	{
+		string logoPathTV = Path.Combine(Path.Combine(MpeInstaller.TransformInRealPath("%Thumbs%"),"TV"),"Logos");
+
+		StreamReader objReader = new StreamReader(Path.Combine(MpeInstaller.TransformInRealPath("%Temp%"),"YouSee.txt"),System.Text.Encoding.Default);
+		string sLine="";
+		string[] sChannels = new string[2];
+		string sChannelTo="";
+		string sChannelFrom="";
+		//read until end of file
+		while (sLine != null)
+		{
+			sLine = objReader.ReadLine();
+			if (sLine != null)
+			//add each line of text file in
+			sChannels = sLine.Split(new char[] {'\t'});
+
+			try
+			{
+				if(!string.IsNullOrEmpty(sChannels[0]) && !string.IsNullOrEmpty(sChannels[1]))
+				{
+					sChannelTo = Path.Combine(logoPathTV,sChannels[1]+".png");
+					sChannelFrom = Path.Combine(logoPathTV,sChannels[0])+".png";
+					if (File.Exists(sChannelFrom))
+					{
+						if (File.Exists(sChannelTo))
+			 				File.Delete(sChannelTo);
+						File.Move(sChannelFrom,sChannelTo );
+					}
+				}
+			}
+			catch {}
+		}
+		objReader.Close();
+		// Delete setupfiles
+		try
+		{
+			File.Delete(Path.Combine(MpeInstaller.TransformInRealPath("%Temp%"),"YouSee.txt"));
+		}
+		catch {}
+		return;
+	}
+}

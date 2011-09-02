@@ -1,0 +1,20 @@
+6´eren	6'eren
+TV2 Film	TV 2 Film
+TV2 Zulu	TV 2 Zulu
+TV2 Charlie	TV 2 Charlie
+TV2 News	TV 2 News
+TV2 Sport	TV 2 Sport
+TV2 Østjylland	Kanal Østjylland
+TV2 Norge	TV 2 Norge
+Folketinget	Folketings-TV
+TV3+	3+
+TV3 Puls	TV 3 Puls
+SVT1	Sverige 1
+SVT2	Sverige 2
+NRK 1	NRK1
+ARD	ARD (Das Erste)
+ARD HD	Das Erste HD
+National Geographic Channel	National Geographic
+NDR	N3 (NDR)
+Viasat Nature+Crime	Nature_Crime_Playboy
+VH1 Classic	VH1 Classic Europe

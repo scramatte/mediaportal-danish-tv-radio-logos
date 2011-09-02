@@ -1,0 +1,49 @@
+//css_reference "MpeCore.dll";
+
+using MpeCore.Classes;
+using MpeCore;
+using System;
+using System.IO;
+
+public class Script
+{
+	public static void Main(PackageClass packageClass, ActionItem actionItem)
+	{
+		string logoPathTV = Path.Combine(Path.Combine(MpeInstaller.TransformInRealPath("%Thumbs%"),"TV"),"Logos");
+
+		StreamReader objReader = new StreamReader(Path.Combine(MpeInstaller.TransformInRealPath("%Base%"),"Stofa.txt"));
+		string sLine="";
+		string[] sChannels = new string[2];
+		string sChannelTo="";
+		string sChannelFrom="";
+		//read until end of file
+		while (sLine != null)
+		{
+			sLine = objReader.ReadLine();
+			if (sLine != null)
+			//add each line of text file in
+			sChannels = sLine.Split(new char[] {'\t'});
+			if(!string.IsNullOrEmpty(sChannels[0]) && !string.IsNullOrEmpty(sChannels[1]))
+			{
+				try
+				{
+					sChannelTo = Path.Combine(logoPathTV,sChannels[1]);
+					sChannelFrom = Path.Combine(logoPathTV,sChannels[0]);
+					if (File.Exists(sChannelTo))
+       		 				File.Delete(sChannelTo);
+					if (File.Exists(sChannelFrom))
+						File.Move(sChannelFrom,sChannelTo );
+				}
+				catch {}
+			}
+		}
+		objReader.Close();
+		// Delete setupfiles
+		try
+		{
+			File.Delete(Path.Combine(MpeInstaller.TransformInRealPath("%Base%"),"Stofa.txt"));
+		}
+		catch {}
+		return;
+	}
+}
