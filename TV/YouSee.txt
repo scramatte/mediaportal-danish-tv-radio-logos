@@ -1,8 +1,8 @@
 	2 VMHD
 24Nordjyske	24Nord
 	3Sat
-	6'eren
-6rn HD	6'eren HD
+6'eren	6´eren
+6'eren HD	6rn HD
 	Al Jaz
 	Al Spo
 	AlAoul
@@ -37,6 +37,7 @@ Discovery ScienceScienc
 Discovery Travel & Living	TraLiv	
 Discovery World	World
 Disney Channel	Disney
+Disney Junior	DisnJr
 Disney XD	DisnXD
 	dk4
 	DR K
@@ -47,7 +48,9 @@ Ekstrakanalen	Ekstra
 	ESC
 ESPN America	ESPN
 ESPN Classic	ESPNcl
+ESPN HD	ESPNHD
 	Euro D
+EuroNews EuNews
 EuroSport 2 HD	ESp2HD
 EuroSport 2	EuSp 2
 EuroSport HD	EuSpHD
@@ -58,7 +61,7 @@ France 2	Franc2
 	Hayat
 	HRT1
 HustlerTV	HUSTtv
-INfokanalen	Infoka
+Infokanalen	Infoka
 	Iqraa
 Kanal 4	Kanal4
 Kanal 5 HD	K5 HD
@@ -103,11 +106,15 @@ Silver HD	SilvHD
 	Star!
 	STV
 	SVT1
+SVT1 HD	SVT1HD
 	SVT2
+SVT2 HD	SVT2HD
+TCL HD	TCLHD
 	TCM
 	TGRT
 	ThaiTV
 The Voice TV	Voice
+TNT7 HD	TBT7HD
 Travel Channel	Travel
 	Trkmax
 	TRT

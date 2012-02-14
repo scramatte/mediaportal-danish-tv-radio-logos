@@ -70,7 +70,6 @@ if ((documents.length != 0))
 	}
 
 	//Hide all logos
-	progressWindow.text = ("Hiding all logos ");
 	HideAllLogos(myLogos);
 
 	//Loop thru all effets combinations
@@ -91,16 +90,24 @@ if ((documents.length != 0))
 				tempFolderName = tempFolderName + myEffects.layers[j].name;
 			}
 		}
-		if(tempFolderName=="")
+		if(tempFolderName == "")
 		{
 			tempFolderName="Plain";
 		}
 		//create a new subfolder
 		var tempFolder = new Folder (currentFolder+"/" + tempFolderName);
-		tempFolder.create();
+		if(tempFolderName == "Black" || 
+		   tempFolderName == "Blue"  || 
+		   tempFolderName == "Plain" ||
+		   tempFolderName == "Glass" ||
+		   tempFolderName == "GlassBlue" ||
+		   tempFolderName == "GlassBlack")
+		{
+			tempFolder.create();
 		
-		//for each layers in the logos group
-		SaveFiles(myLogos,tempFolderName);
+			//for each layers in the logos group
+			SaveFiles(myLogos,tempFolderName);
+		}
 	}
 	progressWindow.close();
 
@@ -127,7 +134,7 @@ function SaveFiles(currObj,strTitle)
 		}
 		//make the current layer visible
 		currObj.layers[i].visible = 1;	
-		if(currObj.layers[i].typename == 'LayerSet' )
+		if(currObj.layers[i].typename == 'LayerSet')
 		{
 			SaveFiles(currObj.layers[i],strTitle + "-" + currObj.layers[i].name);
 			progressWindow.text = ("Progressing "+ strTitle);
@@ -156,6 +163,7 @@ function HideAllLogos(CurrObj)
 		CurrObj.layers[i].visible = 0;
 		if(CurrObj.layers[i].typename == 'LayerSet' )
 		{
+			progressWindow.text = ("Hiding all logos - " + CurrObj.layers[i].name);
 			HideAllLogos(CurrObj.layers[i]);
 		}
 	}

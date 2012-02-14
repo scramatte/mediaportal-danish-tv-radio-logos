@@ -14,7 +14,7 @@ public class Script
 
 		StreamReader objReader = new StreamReader(Path.Combine(MpeInstaller.TransformInRealPath("%Temp%"),"YouSee.txt"),System.Text.Encoding.Default);
 		string sLine="";
-		string[] sChannels = new string[2];
+		string[] sChannels = new string[3];
 		string sChannelTo="";
 		string sChannelFrom="";
 		//read until end of file
@@ -35,7 +35,7 @@ public class Script
 					{
 						if (File.Exists(sChannelTo))
 			 				File.Delete(sChannelTo);
-						File.Move(sChannelFrom,sChannelTo );
+						File.Copy(sChannelFrom,sChannelTo );
 					}
 				}
 			}

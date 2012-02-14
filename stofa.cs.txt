@@ -32,7 +32,7 @@ public class Script
 					if (File.Exists(sChannelTo))
        		 				File.Delete(sChannelTo);
 					if (File.Exists(sChannelFrom))
-						File.Move(sChannelFrom,sChannelTo );
+						File.Copy(sChannelFrom,sChannelTo );
 				}
 				catch {}
 			}
