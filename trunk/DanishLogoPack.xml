@@ -678,25 +678,330 @@ TV+Radio channel logos based on the template by Chili, Swemart, eloo and Mirks w
           <Build>9</Build>
           <Revision>0</Revision>
         </Version>
-        <ExtensionDescription>A logo pack for danish tv and radio channels.
-
+        <ExtensionDescription>A logo pack for danish tv and radio channels.
+
+
+
 TV+Radio channel logos based on the template by Chili, Swemart, eloo and Mirks work. </ExtensionDescription>
-        <VersionDescription>Release date 2012.02.15
-New logos:
-- TV2 HD
-- TLC/TLC HD
-- Arte HD
-- MBR
-- ESPN HD
-- TVM
-- TNT7/TNT7 HD
-- Lorry
-
+        <VersionDescription>Release date 2012.02.15
+
+New logos:
+
+- TV2 HD
+
+- TLC/TLC HD
+
+- Arte HD
+
+- MBR
+
+- ESPN HD
+
+- TVM
+
+- TNT7/TNT7 HD
+
+- Lorry
+
+
+
 Updated script for rename/copy logo-name to Stofa/yousee default names</VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
         <OnlineLocation>http://www.dinky.dk/DanishLogoPack/DanishLogoPack 1.0.9.0.mpe1</OnlineLocation>
         <ReleaseDate>2012-02-15T23:25:52</ReleaseDate>
         <Tags>logo</Tags>
+        <Location>D:\Dev\DanishLogoPack [Version].mpe1</Location>
+        <Params>
+          <Items>
+            <SectionParam Name="Online Icon">
+              <Value />
+              <ValueType>String</ValueType>
+              <Description>The icon file of the package stored online (jpg,png,bmp)</Description>
+            </SectionParam>
+            <SectionParam Name="Configuration file">
+              <Value />
+              <ValueType>Template</ValueType>
+              <Description>The file used to configure the extension.
+ If have .exe extension the will be executed
+ If have .dll extension used like MP plugin configuration</Description>
+            </SectionParam>
+            <SectionParam Name="Online Screenshots">
+              <Value />
+              <ValueType>String</ValueType>
+              <Description>Online stored screenshot urls separated by ; </Description>
+            </SectionParam>
+            <SectionParam Name="Force to uninstall on update">
+              <Value>NO</Value>
+              <ValueType>Bool</ValueType>
+              <Description>Show dialog and force to uninstall previous version when updating an extension. Should only be disabled if you are using an NSIS/MSI installer.</Description>
+            </SectionParam>
+          </Items>
+        </Params>
+      </GeneralInfo>
+      <UniqueFileList>
+        <Items />
+      </UniqueFileList>
+      <ProjectSettings>
+        <FolderGroups />
+      </ProjectSettings>
+      <IsSkin>false</IsSkin>
+    </PackageClass>
+    <PackageClass>
+      <Version>2.0</Version>
+      <Groups>
+        <Items>
+          <GroupItem Name="Blue">
+            <DisplayName>Blue</DisplayName>
+            <DefaulChecked>false</DefaulChecked>
+            <Description>Blue</Description>
+            <Files>
+              <Items />
+            </Files>
+          </GroupItem>
+          <GroupItem Name="Glass">
+            <DisplayName>Glass</DisplayName>
+            <DefaulChecked>false</DefaulChecked>
+            <Description>Glass</Description>
+            <Files>
+              <Items />
+            </Files>
+          </GroupItem>
+          <GroupItem Name="Blue-Glass">
+            <DisplayName>Blue-Glass</DisplayName>
+            <DefaulChecked>false</DefaulChecked>
+            <Description>Blue-Glass</Description>
+            <Files>
+              <Items />
+            </Files>
+          </GroupItem>
+          <GroupItem Name="Blue-TV">
+            <DisplayName>Blue-TV</DisplayName>
+            <DefaulChecked>false</DefaulChecked>
+            <Description>Blue-TV</Description>
+            <Files>
+              <Items />
+            </Files>
+          </GroupItem>
+          <GroupItem Name="Glass-Radio">
+            <DisplayName>Glass-Radio</DisplayName>
+            <DefaulChecked>false</DefaulChecked>
+            <Description>Glass-Radio</Description>
+            <Files>
+              <Items />
+            </Files>
+          </GroupItem>
+          <GroupItem Name="Glass-TV">
+            <DisplayName>Glass-TV</DisplayName>
+            <DefaulChecked>false</DefaulChecked>
+            <Description>Glass-TV</Description>
+            <Files>
+              <Items />
+            </Files>
+          </GroupItem>
+          <GroupItem Name="Blue-Glass-Radio">
+            <DisplayName>Blue-Glass-Radio</DisplayName>
+            <DefaulChecked>false</DefaulChecked>
+            <Description>Blue-Glass-Radio</Description>
+            <Files>
+              <Items />
+            </Files>
+          </GroupItem>
+          <GroupItem Name="Blue-Glass-TV">
+            <DisplayName>Blue-Glass-TV</DisplayName>
+            <DefaulChecked>false</DefaulChecked>
+            <Description>Blue-Glass-TV</Description>
+            <Files>
+              <Items />
+            </Files>
+          </GroupItem>
+          <GroupItem Name="Plain">
+            <DisplayName>Plain</DisplayName>
+            <DefaulChecked>false</DefaulChecked>
+            <Description>Plain</Description>
+            <Files>
+              <Items />
+            </Files>
+          </GroupItem>
+          <GroupItem Name="Plain-Radio">
+            <DisplayName>Plain-Radio</DisplayName>
+            <DefaulChecked>false</DefaulChecked>
+            <Description>Plain-Radio</Description>
+            <Files>
+              <Items />
+            </Files>
+          </GroupItem>
+          <GroupItem Name="Plain-TV">
+            <DisplayName>Plain-TV</DisplayName>
+            <DefaulChecked>false</DefaulChecked>
+            <Description>Plain-TV</Description>
+            <Files>
+              <Items />
+            </Files>
+          </GroupItem>
+          <GroupItem Name="Provider">
+            <DisplayName>Provider</DisplayName>
+            <DefaulChecked>false</DefaulChecked>
+            <Description>Provider</Description>
+            <Files>
+              <Items />
+            </Files>
+          </GroupItem>
+          <GroupItem Name="YouSee">
+            <DisplayName>YouSee</DisplayName>
+            <DefaulChecked>false</DefaulChecked>
+            <Description>YouSee</Description>
+            <Files>
+              <Items />
+            </Files>
+          </GroupItem>
+          <GroupItem Name="Stofa">
+            <DisplayName>Stofa</DisplayName>
+            <DefaulChecked>false</DefaulChecked>
+            <Description>Stofa</Description>
+            <Files>
+              <Items />
+            </Files>
+          </GroupItem>
+          <GroupItem Name="Black-Glass TV">
+            <DisplayName>Black-Glass TV</DisplayName>
+            <DefaulChecked>false</DefaulChecked>
+            <Description>Black-Glass TV</Description>
+            <Files>
+              <Items />
+            </Files>
+          </GroupItem>
+          <GroupItem Name="Black TV">
+            <DisplayName>Black TV</DisplayName>
+            <DefaulChecked>false</DefaulChecked>
+            <Description>Black TV</Description>
+            <Files>
+              <Items />
+            </Files>
+          </GroupItem>
+          <GroupItem Name="Black">
+            <DisplayName>Black</DisplayName>
+            <DefaulChecked>false</DefaulChecked>
+            <Description>Black</Description>
+            <Files>
+              <Items />
+            </Files>
+          </GroupItem>
+          <GroupItem Name="Black-Glass">
+            <DisplayName>Black-Glass</DisplayName>
+            <DefaulChecked>false</DefaulChecked>
+            <Description>Black-Glass</Description>
+            <Files>
+              <Items />
+            </Files>
+          </GroupItem>
+          <GroupItem Name="Black Radio">
+            <DisplayName>Black Radio</DisplayName>
+            <DefaulChecked>false</DefaulChecked>
+            <Description>Black Radio</Description>
+            <Files>
+              <Items />
+            </Files>
+          </GroupItem>
+          <GroupItem Name="Black-Glas-Radio">
+            <DisplayName>Black-Glas-Radio</DisplayName>
+            <DefaulChecked>false</DefaulChecked>
+            <Description>Black-Glas-Radio</Description>
+            <Files>
+              <Items />
+            </Files>
+          </GroupItem>
+          <GroupItem Name="Blue-Radio">
+            <DisplayName>Blue-Radio</DisplayName>
+            <DefaulChecked>false</DefaulChecked>
+            <Description>Blue-Radio</Description>
+            <Files>
+              <Items />
+            </Files>
+          </GroupItem>
+          <GroupItem Name="Default">
+            <DisplayName>Default</DisplayName>
+            <DefaulChecked>true</DefaulChecked>
+            <Description>Default</Description>
+            <Files>
+              <Items />
+            </Files>
+          </GroupItem>
+          <GroupItem Name="Default TV">
+            <DisplayName>Default TV</DisplayName>
+            <DefaulChecked>true</DefaulChecked>
+            <Description>Default TV</Description>
+            <Files>
+              <Items />
+            </Files>
+          </GroupItem>
+          <GroupItem Name="Default Radio">
+            <DisplayName>Default Radio</DisplayName>
+            <DefaulChecked>true</DefaulChecked>
+            <Description>Default Radio</Description>
+            <Files>
+              <Items />
+            </Files>
+          </GroupItem>
+        </Items>
+      </Groups>
+      <Sections>
+        <Items />
+      </Sections>
+      <Dependencies>
+        <Items>
+          <DependencyItem>
+            <Type>MediaPortal</Type>
+            <Id />
+            <MinVersion>
+              <Major>1</Major>
+              <Minor>1</Minor>
+              <Build>6</Build>
+              <Revision>27644</Revision>
+            </MinVersion>
+            <MaxVersion>
+              <Major>1</Major>
+              <Minor>1</Minor>
+              <Build>6</Build>
+              <Revision>27644</Revision>
+            </MaxVersion>
+            <WarnOnly>false</WarnOnly>
+            <Message>requires MediaPortal version 1.1.6.27644 to 1.1.6.27644.</Message>
+            <Name>MediaPortal</Name>
+          </DependencyItem>
+        </Items>
+      </Dependencies>
+      <PluginDependencies>
+        <Items />
+      </PluginDependencies>
+      <GeneralInfo>
+        <Name>Danish TV &amp; Radio logos</Name>
+        <Id>87138503-6ffd-4cfa-9d07-e9b3834cef08</Id>
+        <Author>Henrik Jensen</Author>
+        <HomePage>http://forum.team-mediaportal.com/mediaportal-plugins-47/danish-tv-radio-logos-v-1-0-5-a-83175/</HomePage>
+        <ForumPage>http://forum.team-mediaportal.com/mediaportal-plugins-47/danish-tv-radio-logos-v-1-0-5-a-83175/</ForumPage>
+        <UpdateUrl>http://www.dinky.dk/DanishLogoPack/DanishLogoPack.xml</UpdateUrl>
+        <Version>
+          <Major>1</Major>
+          <Minor>0</Minor>
+          <Build>10</Build>
+          <Revision>0</Revision>
+        </Version>
+        <ExtensionDescription>A logo pack for danish tv and radio channels.
+
+
+
+TV+Radio channel logos based on the template by Chili, Swemart, eloo and Mirks work. </ExtensionDescription>
+        <VersionDescription>Release date 2013-02-17
+
+- Update over 100 TV logos
+
+- New glass effect and color for TV-logos</VersionDescription>
+        <DevelopmentStatus>Stable</DevelopmentStatus>
+        <OnlineLocation>http://www.dinky.dk/DanishLogoPack/DanishLogoPack 1.0.10.0.mpe1</OnlineLocation>
+        <ReleaseDate>2013-02-17T23:25:52</ReleaseDate>
+        <Tags>logo
+radio
+tv</Tags>
         <Location>D:\Dev\DanishLogoPack [Version].mpe1</Location>
         <Params>
           <Items>
