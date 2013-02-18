@@ -101,7 +101,8 @@ if ((documents.length != 0))
 		   tempFolderName == "Plain" ||
 		   tempFolderName == "Glass" ||
 		   tempFolderName == "GlassBlue" ||
-		   tempFolderName == "GlassBlack")
+		   tempFolderName == "GlassBlack" ||
+		   tempFolderName == "GlassDefault" )
 		{
 			tempFolder.create();
 		
