@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Mappings>
+<!-- TV -->
+  <Channel>
+    <Item Name="DR1">
+      <Satellite />
+    </Item>
+    <Item Name="DR 1">
+      <Satellite />
+    </Item>
+    <File>DR1.png</File>
+  </Channel>
+</Mappings>
