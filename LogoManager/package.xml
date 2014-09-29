@@ -11,6 +11,8 @@
 				<Logos_TV>TV/</Logos_TV>
 				<Logos_Radio>Radio/</Logos_Radio>
 				<Mapping_AltURL/>
+				<SupportsLastModified>true</SupportsLastModified>
+				<StringPartsToRemove/>
 			</Package>
 		</Packages>
 	</Mapping>
