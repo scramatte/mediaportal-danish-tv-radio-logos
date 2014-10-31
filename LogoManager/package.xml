@@ -3,7 +3,7 @@
 	<Mapping>
 		<Packages>
 			<Package>
-				<Name>Danish Pack</Name>
+				<Name>Danish Set</Name>
 				<CountryName>Danmark</CountryName>
 				<CountryName_Eng>Denmark</CountryName_Eng>
 				<BaseURL>http://mediaportal-danish-tv-radio-logos.googlecode.com/svn/trunk/LogoManager/</BaseURL>
