@@ -16,16 +16,25 @@
     <Item Name="6'eren HD">
       <Satellite />
     </Item>
+    <Item Name="6´eren HD">
+      <Satellite />
+    </Item>
     <File>6'eren HD.png</File>
   </Channel>
   <Channel>
     <Item Name="6'eren">
       <Satellite />
     </Item>
+    <Item Name="6´eren">
+      <Satellite />
+    </Item>
     <File>6'eren.png</File>
   </Channel>
   <Channel>
     <Item Name="7'eren">
+      <Satellite />
+    </Item>
+    <Item Name="7´eren">
       <Satellite />
     </Item>
     <File>7'eren.png</File>
@@ -502,25 +511,37 @@
     <Item Name="DR 1 HD">
       <Satellite />
     </Item>
-    <File>DR 1 HD.png</File>
+    <Item Name="DR1 HD">
+      <Satellite />
+    </Item>
+    <File>DR1 HD.png</File>
   </Channel>
   <Channel>
     <Item Name="DR 1">
       <Satellite />
     </Item>
-    <File>DR 1.png</File>
+    <Item Name="DR1">
+      <Satellite />
+    </Item>
+    <File>DR1.png</File>
   </Channel>
   <Channel>
     <Item Name="DR 2">
       <Satellite />
     </Item>
-    <File>DR 2.png</File>
+    <Item Name="DR2">
+      <Satellite />
+    </Item>
+    <File>DR2.png</File>
   </Channel>
   <Channel>
     <Item Name="DR 3">
       <Satellite />
     </Item>
-    <File>DR 3.png</File>
+    <Item Name="DR3">
+      <Satellite />
+    </Item>
+    <File>DR3.png</File>
   </Channel>
   <Channel>
     <Item Name="DR HD">
@@ -544,6 +565,12 @@
     <Item Name="DR Syn">
       <Satellite />
     </Item>
+    <Item Name="DR 1 Syn">
+      <Satellite />
+    </Item>
+    <Item Name="DR1 Syn">
+      <Satellite />
+    </Item>
     <File>DR Syn.png</File>
   </Channel>
   <Channel>
@@ -557,18 +584,6 @@
       <Satellite />
     </Item>
     <File>DR Update.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="DR1">
-      <Satellite />
-    </Item>
-    <File>DR1.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="DR2">
-      <Satellite />
-    </Item>
-    <File>DR2.png</File>
   </Channel>
   <Channel>
     <Item Name="DSF">
@@ -589,22 +604,16 @@
     <File>E.png</File>
   </Channel>
   <Channel>
-    <Item Name="Ekstra HD">
-      <Satellite />
-    </Item>
-    <File>Ekstra HD.png</File>
-  </Channel>
-  <Channel>
     <Item Name="Ekstra">
       <Satellite />
     </Item>
-    <File>Ekstra.png</File>
-  </Channel>
-  <Channel>
+    <Item Name="Ekstra HD">
+      <Satellite />
+    </Item>
     <Item Name="Ekstrakanalen">
       <Satellite />
     </Item>
-    <File>Ekstrakanalen.png</File>
+    <File>Ekstra.png</File>
   </Channel>
   <Channel>
     <Item Name="ESPN America HD">
@@ -754,9 +763,6 @@
     <Item Name="InfoHD">
       <Satellite />
     </Item>
-    <File>InfoHD.png</File>
-  </Channel>
-  <Channel>
     <Item Name="Infokanalen">
       <Satellite />
     </Item>
@@ -796,16 +802,25 @@
     <Item Name="Kanal 4">
       <Satellite />
     </Item>
+    <Item Name="Kanal4">
+      <Satellite />
+    </Item>
     <File>Kanal 4.png</File>
   </Channel>
   <Channel>
     <Item Name="Kanal 5 HD">
       <Satellite />
     </Item>
+    <Item Name="Kanal5 HD">
+      <Satellite />
+    </Item>
     <File>Kanal 5 HD.png</File>
   </Channel>
   <Channel>
     <Item Name="Kanal 5">
+      <Satellite />
+    </Item>
+    <Item Name="Kanal5">
       <Satellite />
     </Item>
     <File>Kanal 5.png</File>
@@ -1042,10 +1057,16 @@
     <Item Name="NRK 1 HD">
       <Satellite />
     </Item>
+    <Item Name="NRK1 HD">
+      <Satellite />
+    </Item>
     <File>NRK 1 HD.png</File>
   </Channel>
   <Channel>
     <Item Name="NRK 1">
+      <Satellite />
+    </Item>
+    <Item Name="NRK1">
       <Satellite />
     </Item>
     <File>NRK 1.png</File>
@@ -1054,10 +1075,16 @@
     <Item Name="NRK 2">
       <Satellite />
     </Item>
+    <Item Name="NRK2">
+      <Satellite />
+    </Item>
     <File>NRK 2.png</File>
   </Channel>
   <Channel>
     <Item Name="NRK 3">
+      <Satellite />
+    </Item>
+    <Item Name="NRK3">
       <Satellite />
     </Item>
     <File>NRK 3.png</File>
@@ -1579,6 +1606,18 @@
     <File>TV2 News.png</File>
   </Channel>
   <Channel>
+    <Item Name="TV2 Nord Salto HD">
+      <Satellite />
+    </Item>
+    <File>TV2 Nord Salto HD.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="TV2 Nord Salto">
+      <Satellite />
+    </Item>
+    <File>TV2 Nord Salto.png</File>
+  </Channel>
+  <Channel>
     <Item Name="TV2 Nord HD">
       <Satellite />
     </Item>
@@ -1762,7 +1801,19 @@
     <Item Name="Uptown">
       <Satellite />
     </Item>
+    <Item Name="Uptown TV">
+      <Satellite />
+    </Item>
     <File>Uptown.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Uptown TV Classic">
+      <Satellite />
+    </Item>
+    <Item Name="Uptown Classic">
+      <Satellite />
+    </Item>
+    <File>Uptown Classic.png</File>
   </Channel>
   <Channel>
     <Item Name="Verdikanalen">
