@@ -7,7 +7,7 @@
 				<CountryName>Danmark</CountryName>
 				<CountryName_Eng>Denmark</CountryName_Eng>
 				<BaseURL>http://mediaportal-danish-tv-radio-logos.googlecode.com/svn/trunk/LogoManager/</BaseURL>
-				<Designs/>
+				<Designs>Designs/</Designs>
 				<Logos_TV>TV/</Logos_TV>
 				<Logos_Radio>Radio/</Logos_Radio>
 				<Mapping_AltURL/>
