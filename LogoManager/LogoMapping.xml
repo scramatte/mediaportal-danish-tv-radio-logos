@@ -185,9 +185,6 @@
     <File>BBC Prime.png</File>
   </Channel>
   <Channel>
-    <Item Name="World">
-      <Satellite />
-    </Item>
     <Item Name="BBC World News">
       <Satellite />
     </Item>
@@ -515,18 +512,27 @@
     <File>Discovery HD.png</File>
   </Channel>
   <Channel>
+    <Item Name="Science">
+      <Satellite />
+    </Item>
     <Item Name="Discovery Science">
       <Satellite />
     </Item>
     <File>Discovery Science.png</File>
   </Channel>
   <Channel>
+    <Item Name="TraLiv">
+      <Satellite />
+    </Item>
     <Item Name="Discovery Travel &amp; Living">
       <Satellite />
     </Item>
     <File>Discovery Travel &amp; Living.png</File>
   </Channel>
   <Channel>
+    <Item Name="World">
+      <Satellite />
+    </Item>
     <Item Name="Discovery World">
       <Satellite />
     </Item>
@@ -534,6 +540,9 @@
   </Channel>
   <Channel>
     <Item Name="DisnHD">
+      <Satellite />
+    </Item>
+    <Item Name="Disney">
       <Satellite />
     </Item>
     <Item Name="Disney Channel">
@@ -698,6 +707,9 @@
     <File>ESPN America HD.png</File>
   </Channel>
   <Channel>
+    <Item Name="ESPN">
+      <Satellite />
+    </Item>
     <Item Name="ESPN America">
       <Satellite />
     </Item>
@@ -713,7 +725,10 @@
     <File>ESPN Classic.png</File>
   </Channel>
   <Channel>
-    <Item Name="ESPN HD">
+     <Item Name="ESPNHD">
+      <Satellite />
+    </Item>
+   <Item Name="ESPN HD">
       <Satellite />
     </Item>
     <File>ESPN HD.png</File>
@@ -1154,6 +1169,9 @@
     <File>Nat Geo Wild HD.png</File>
   </Channel>
   <Channel>
+    <Item Name="NGWild">
+      <Satellite />
+    </Item>
     <Item Name="Nat Geo Wild">
       <Satellite />
     </Item>
@@ -1283,6 +1301,9 @@
     <File>Playboy.png</File>
   </Channel>
   <Channel>
+    <Item Name="PHouse">
+      <Satellite />
+    </Item>
     <Item Name="Playhouse Disney">
       <Satellite />
     </Item>
@@ -1751,7 +1772,7 @@
     <File>TV2 Charlie.png</File>
   </Channel>
   <Channel>
-    <Item Name="2FilmHD">
+    <Item Name="FilmHD">
       <Satellite />
     </Item>
     <Item Name="TV2 Film HD">
@@ -1826,6 +1847,9 @@
     <File>TV2 Midt-Vest.png</File>
   </Channel>
   <Channel>
+    <Item Name="2Nabo">
+      <Satellite />
+    </Item>
     <Item Name="TV2 Naboregion">
       <Satellite />
     </Item>
@@ -2181,6 +2205,9 @@
     <File>Viasat Fotball.png</File>
   </Channel>
   <Channel>
+    <Item Name="Golf">
+      <Satellite />
+    </Item>
     <Item Name="Viasat Golf">
       <Satellite />
     </Item>
@@ -2193,6 +2220,9 @@
     <File>Viasat History HD.png</File>
   </Channel>
   <Channel>
+    <Item Name="Histor">
+      <Satellite />
+    </Item>
     <Item Name="Viasat History">
       <Satellite />
     </Item>
@@ -2223,6 +2253,9 @@
     <File>Viasat Nature HD.png</File>
   </Channel>
   <Channel>
+    <Item Name="Via NC">
+      <Satellite />
+    </Item>
     <Item Name="Viasat Nature+Crime">
       <Satellite />
     </Item>
