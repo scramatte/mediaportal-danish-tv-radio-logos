@@ -571,6 +571,9 @@
     <Item Name="DR1 Syn">
       <Satellite />
     </Item>
+    <Item Name="DR1Syn">
+      <Satellite />
+    </Item>
     <File>DR Syn.png</File>
   </Channel>
   <Channel>
