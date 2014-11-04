@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
-<--- TV --->
+<!--- TV -->
   <Channel>
     <Item Name="24Nordjyske">
       <Satellite />
@@ -2366,7 +2366,7 @@
     </Item>
     <File>ZTV.png</File>
   </Channel>
-<-- Radio --->
+<!--- Radio -->
   <Channel>
     <Item Name="BBC Radio 1">
       <Satellite />
