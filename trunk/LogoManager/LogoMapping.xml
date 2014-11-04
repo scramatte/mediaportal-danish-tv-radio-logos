@@ -800,6 +800,9 @@
     <Item Name="Tinget">
       <Satellite />
     </Item>
+    <Item Name="Folketings-TV">
+      <Satellite />
+    </Item>
     <Item Name="Folketinget">
       <Satellite />
     </Item>
@@ -821,18 +824,27 @@
     <File>France 2.png</File>
   </Channel>
   <Channel>
+    <Item Name="France3">
+      <Satellite />
+    </Item>
     <Item Name="France 3">
       <Satellite />
     </Item>
     <File>France 3.png</File>
   </Channel>
   <Channel>
+    <Item Name="France4">
+      <Satellite />
+    </Item>
     <Item Name="France 4">
       <Satellite />
     </Item>
     <File>France 4.png</File>
   </Channel>
   <Channel>
+    <Item Name="France5">
+      <Satellite />
+    </Item>
     <Item Name="France 5">
       <Satellite />
     </Item>
@@ -1016,6 +1028,9 @@
     <File>Kanal Sport.png</File>
   </Channel>
   <Channel>
+    <Item Name="Syd">
+      <Satellite />
+    </Item>
     <Item Name="Kanal Syd">
       <Satellite />
     </Item>
@@ -1181,6 +1196,9 @@
     <Item Name="NGC HD">
       <Satellite />
     </Item>
+    <Item Name="National Geographic HD">
+      <Satellite />
+    </Item>
     <Item Name="National Geographic Channel HD">
       <Satellite />
     </Item>
@@ -1188,6 +1206,9 @@
   </Channel>
   <Channel>
     <Item Name="NatGeo">
+      <Satellite />
+    </Item>
+    <Item Name="National Geographic">
       <Satellite />
     </Item>
     <Item Name="National Geographic Channel">
@@ -1200,6 +1221,9 @@
       <Satellite />
     </Item>
     <Item Name="NDR">
+      <Satellite />
+    </Item>
+    <Item Name="N3 (NDR)">
       <Satellite />
     </Item>
     <File>NDR.png</File>
@@ -1517,6 +1541,9 @@
     <File>SVT HD.png</File>
   </Channel>
   <Channel>
+    <Item Name="Sverige 1 HD">
+      <Satellite />
+    </Item>
     <Item Name="SVT1HD">
       <Satellite />
     </Item>
@@ -1526,6 +1553,9 @@
     <File>svt1 HD.png</File>
   </Channel>
   <Channel>
+    <Item Name="Sverige 1">
+      <Satellite />
+    </Item>
     <Item Name="SVT1">
       <Satellite />
     </Item>
@@ -1535,6 +1565,9 @@
     <File>svt1.png</File>
   </Channel>
   <Channel>
+    <Item Name="Sverige 2 HD">
+      <Satellite />
+    </Item>
     <Item Name="SVT2HD">
       <Satellite />
     </Item>
@@ -1544,6 +1577,9 @@
     <File>svt2 HD.png</File>
   </Channel>
   <Channel>
+    <Item Name="Sverige 2">
+      <Satellite />
+    </Item>
     <Item Name="SVT2">
       <Satellite />
     </Item>
@@ -1592,6 +1628,9 @@
     <Item Name="The Voice TV">
       <Satellite />
     </Item>
+    <Item Name="Voice TV">
+      <Satellite />
+    </Item>
     <File>The Voice TV.png</File>
   </Channel>
   <Channel>
@@ -1601,12 +1640,18 @@
     <File>The Voice.png</File>
   </Channel>
   <Channel>
+    <Item Name="TLC Danmark HD">
+      <Satellite />
+    </Item>
     <Item Name="TLC HD">
       <Satellite />
     </Item>
     <File>TLC HD.png</File>
   </Channel>
   <Channel>
+    <Item Name="TLC Danmark">
+      <Satellite />
+    </Item>
     <Item Name="TLC">
       <Satellite />
     </Item>
@@ -1769,6 +1814,9 @@
     <Item Name="TV2 Charlie">
       <Satellite />
     </Item>
+    <Item Name="TV 2 Charlie">
+      <Satellite />
+    </Item>
     <File>TV2 Charlie.png</File>
   </Channel>
   <Channel>
@@ -1776,6 +1824,9 @@
       <Satellite />
     </Item>
     <Item Name="TV2 Film HD">
+      <Satellite />
+    </Item>
+    <Item Name="TV 2 Film HD">
       <Satellite />
     </Item>
     <File>TV2 Film HD.png</File>
@@ -1787,19 +1838,31 @@
     <Item Name="TV2 Film">
       <Satellite />
     </Item>
+    <Item Name="TV 2 Film">
+      <Satellite />
+    </Item>
     <File>TV2 Film.png</File>
   </Channel>
   <Channel>
+    <Item Name="2FriHD">
+      <Satellite />
+    </Item>
     <Item Name="TV2 Fri HD">
+      <Satellite />
+    </Item>
+    <Item Name="TV 2 Fri HD">
       <Satellite />
     </Item>
     <File>TV2 Fri HD.png</File>
   </Channel>
   <Channel>
+    <Item Name="2Fri">
+      <Satellite />
+    </Item>
     <Item Name="TV2 Fri">
       <Satellite />
     </Item>
-    <Item Name="2FriHD">
+    <Item Name="TV 2 Fri">
       <Satellite />
     </Item>
     <File>TV2 Fri.png</File>
@@ -1808,10 +1871,16 @@
     <Item Name="TV2 Fyn HD">
       <Satellite />
     </Item>
+    <Item Name="TV 2 Fyn HD">
+      <Satellite />
+    </Item>
     <File>TV2 Fyn HD.png</File>
   </Channel>
   <Channel>
     <Item Name="TV2 Fyn">
+      <Satellite />
+    </Item>
+    <Item Name="TV 2 Fyn">
       <Satellite />
     </Item>
     <File>TV2 Fyn.png</File>
@@ -1820,10 +1889,16 @@
     <Item Name="TV2 HD">
       <Satellite />
     </Item>
+    <Item Name="TV 2 HD">
+      <Satellite />
+    </Item>
     <File>TV2 HD.png</File>
   </Channel>
   <Channel>
     <Item Name="TV2 Lorry HD">
+      <Satellite />
+    </Item>
+    <Item Name="TV 2 Lorry HD">
       <Satellite />
     </Item>
     <File>TV2 Lorry HD.png</File>
@@ -1832,16 +1907,25 @@
     <Item Name="TV2 Lorry">
       <Satellite />
     </Item>
+    <Item Name="TV 2 Lorry">
+      <Satellite />
+    </Item>
     <File>TV2 Lorry.png</File>
   </Channel>
   <Channel>
     <Item Name="TV2 Midt-Vest HD">
       <Satellite />
     </Item>
+    <Item Name="TV 2 Midt-Vest HD">
+      <Satellite />
+    </Item>
     <File>TV2 Midt-Vest HD.png</File>
   </Channel>
   <Channel>
     <Item Name="TV2 Midt-Vest">
+      <Satellite />
+    </Item>
+    <Item Name="TV 2 Midt-Vest">
       <Satellite />
     </Item>
     <File>TV2 Midt-Vest.png</File>
@@ -1853,6 +1937,9 @@
     <Item Name="TV2 Naboregion">
       <Satellite />
     </Item>
+    <Item Name="TV 2 Naboregion">
+      <Satellite />
+    </Item>
     <File>TV2 Naboregion.png</File>
   </Channel>
   <Channel>
@@ -1862,10 +1949,16 @@
     <Item Name="TV2 News">
       <Satellite />
     </Item>
+    <Item Name="TV 2 News">
+      <Satellite />
+    </Item>
     <File>TV2 News.png</File>
   </Channel>
   <Channel>
     <Item Name="TV2 Nord Salto HD">
+      <Satellite />
+    </Item>
+    <Item Name="TV 2 Nord Salto HD">
       <Satellite />
     </Item>
     <File>TV2 Nord Salto HD.png</File>
@@ -1874,10 +1967,16 @@
     <Item Name="TV2 Nord Salto">
       <Satellite />
     </Item>
+    <Item Name="TV 2 Nord Salto">
+      <Satellite />
+    </Item>
     <File>TV2 Nord Salto.png</File>
   </Channel>
   <Channel>
     <Item Name="TV2 Nord HD">
+      <Satellite />
+    </Item>
+    <Item Name="TV 2 Nord HD">
       <Satellite />
     </Item>
     <File>TV2 Nord HD.png</File>
@@ -1886,14 +1985,23 @@
     <Item Name="TV2 Nord">
       <Satellite />
     </Item>
+    <Item Name="TV 2 Nord">
+      <Satellite />
+    </Item>
     <File>TV2 Nord.png</File>
   </Channel>
   <Channel>
     <Item Name="Norge2">
       <Satellite />
     </Item>
+    <Item Name="Norge 2">
+      <Satellite />
+    </Item>
     <File>Norge2.png</File>
     <Item Name="TV2 Norge HD">
+      <Satellite />
+    </Item>
+    <Item Name="TV 2 Norge HD">
       <Satellite />
     </Item>
     <File>TV2 Norge HD.png</File>
@@ -1902,10 +2010,16 @@
     <Item Name="TV2 Norge">
       <Satellite />
     </Item>
+    <Item Name="TV 2 Norge">
+      <Satellite />
+    </Item>
     <File>TV2 Norge.png</File>
   </Channel>
   <Channel>
     <Item Name="TV2 Sport HD">
+      <Satellite />
+    </Item>
+    <Item Name="TV 2 Sport HD">
       <Satellite />
     </Item>
     <File>TV2 Sport HD.png</File>
@@ -1914,16 +2028,25 @@
     <Item Name="TV2 Sport">
       <Satellite />
     </Item>
+    <Item Name="TV 2 Sport">
+      <Satellite />
+    </Item>
     <File>TV2 Sport.png</File>
   </Channel>
   <Channel>
     <Item Name="TV2 Syd HD">
       <Satellite />
     </Item>
+    <Item Name="TV 2 Syd HD">
+      <Satellite />
+    </Item>
     <File>TV2 Syd HD.png</File>
   </Channel>
   <Channel>
     <Item Name="TV2 Syd">
+      <Satellite />
+    </Item>
+    <Item Name="TV 2 Syd">
       <Satellite />
     </Item>
     <File>TV2 Syd.png</File>
@@ -1935,16 +2058,31 @@
     <Item Name="TV2 Zulu">
       <Satellite />
     </Item>
+    <Item Name="TV 2 Zulu">
+      <Satellite />
+    </Item>
     <File>TV2 Zulu.png</File>
   </Channel>
   <Channel>
+    <Item Name="2ٳtHD">
+      <Satellite />
+    </Item>
     <Item Name="TV2 Øst HD">
+      <Satellite />
+    </Item>
+    <Item Name="TV 2 Øst HD">
       <Satellite />
     </Item>
     <File>TV2 Øst HD.png</File>
   </Channel>
   <Channel>
+    <Item Name="TV2 ٳt">
+      <Satellite />
+    </Item>
     <Item Name="TV2 Øst">
+      <Satellite />
+    </Item>
+    <Item Name="TV 2 Øst">
       <Satellite />
     </Item>
     <File>TV2 Øst.png</File>
@@ -1953,16 +2091,25 @@
     <Item Name="TV2 Østjylland HD">
       <Satellite />
     </Item>
+    <Item Name="TV 2 Østjylland HD">
+      <Satellite />
+    </Item>
     <File>TV2 Østjylland HD.png</File>
   </Channel>
   <Channel>
     <Item Name="TV2 Østjylland">
       <Satellite />
     </Item>
+    <Item Name="TV 2 Østjylland">
+      <Satellite />
+    </Item>
     <File>TV2 Østjylland.png</File>
   </Channel>
   <Channel>
     <Item Name="TV2">
+      <Satellite />
+    </Item>
+    <Item Name="TV 2">
       <Satellite />
     </Item>
     <File>TV2.png</File>
@@ -1974,6 +2121,9 @@
     <Item Name="TV3 Puls">
       <Satellite />
     </Item>
+    <Item Name="TV 3 Puls">
+      <Satellite />
+    </Item>
     <File>TV3 Puls.png</File>
   </Channel>
   <Channel>
@@ -1983,10 +2133,16 @@
     <Item Name="TV3 Sport 1 HD">
       <Satellite />
     </Item>
+    <Item Name="TV 3 Sport 1 HD">
+      <Satellite />
+    </Item>
     <File>TV3 Sport 1 HD.png</File>
   </Channel>
   <Channel>
     <Item Name="TV3 Sport 1">
+      <Satellite />
+    </Item>
+    <Item Name="TV 3 Sport 1">
       <Satellite />
     </Item>
     <File>TV3 Sport 1.png</File>
@@ -1998,10 +2154,16 @@
     <Item Name="TV3 Sport 2 HD">
       <Satellite />
     </Item>
+    <Item Name="TV 3 Sport 2 HD">
+      <Satellite />
+    </Item>
     <File>TV3 Sport 2 HD.png</File>
   </Channel>
   <Channel>
     <Item Name="TV3 Sport 2">
+      <Satellite />
+    </Item>
+    <Item Name="TV 3 Sport 2">
       <Satellite />
     </Item>
     <File>TV3 Sport 2.png</File>
@@ -2010,10 +2172,16 @@
     <Item Name="TV3 Sport HD">
       <Satellite />
     </Item>
+    <Item Name="TV 3 Sport HD">
+      <Satellite />
+    </Item>
     <File>TV3 Sport HD.png</File>
   </Channel>
   <Channel>
     <Item Name="TV3 Sport">
+      <Satellite />
+    </Item>
+    <Item Name="TV 3 Sport">
       <Satellite />
     </Item>
     <File>TV3 Sport.png</File>
@@ -2025,10 +2193,16 @@
     <Item Name="TV3+ HD">
       <Satellite />
     </Item>
+    <Item Name="TV 3+ HD">
+      <Satellite />
+    </Item>
     <File>TV3+ HD.png</File>
   </Channel>
   <Channel>
     <Item Name="TV3+">
+      <Satellite />
+    </Item>
+    <Item Name="TV 3+">
       <Satellite />
     </Item>
     <File>TV3+.png</File>
@@ -2037,16 +2211,25 @@
     <Item Name="TV3">
       <Satellite />
     </Item>
+    <Item Name="TV 3">
+      <Satellite />
+    </Item>
     <File>TV3.png</File>
   </Channel>
   <Channel>
     <Item Name="TV4 Sverige">
       <Satellite />
     </Item>
+    <Item Name="TV 4 Sverige">
+      <Satellite />
+    </Item>
     <File>TV4 Sverige.png</File>
   </Channel>
   <Channel>
     <Item Name="TV4">
+      <Satellite />
+    </Item>
+    <Item Name="TV 4">
       <Satellite />
     </Item>
     <File>TV4.png</File>
@@ -2058,13 +2241,13 @@
     <Item Name="TV5 Monde">
       <Satellite />
     </Item>
-    <File>TV5 Monde.png</File>
-  </Channel>
-  <Channel>
     <Item Name="TV5Monde">
       <Satellite />
     </Item>
-    <File>TV5Monde.png</File>
+    <Item Name="TV5 Monde Europe">
+      <Satellite />
+    </Item>
+    <File>TV5 Monde.png</File>
   </Channel>
   <Channel>
     <Item Name="TVE International">
@@ -2107,6 +2290,9 @@
       <Satellite />
     </Item>
     <Item Name="VH1 Classic">
+      <Satellite />
+    </Item>
+    <Item Name="VH1 Classic Europe">
       <Satellite />
     </Item>
     <File>VH1 Classic.png</File>
@@ -2668,6 +2854,12 @@
     <File>SR P4.png</File>
   </Channel>
   <Channel>
+    <Item Name="The Voice Tv">
+      <Satellite />
+    </Item>
+    <Item Name="Voice Tv">
+      <Satellite />
+    </Item>
     <Item Name="The Voice">
       <Satellite />
     </Item>
