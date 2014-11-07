@@ -71,7 +71,7 @@ if ((documents.length != 0))
 
 	//Hide all logos
 	HideAllLogos(myLogos);
-
+    myLogos.visible = 1;
 	//Loop thru all effets combinations
 	var doLoop=true;
 	for(i=0;i<loopEffects(myEffects.layers.length);i++)
