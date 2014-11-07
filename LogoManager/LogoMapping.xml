@@ -104,12 +104,18 @@
     <File>Animal Planet.png</File>
   </Channel>
   <Channel>
+    <Item Name="Das Erste HD">
+      <Satellite />
+    </Item>
     <Item Name="ARD HD">
       <Satellite />
     </Item>
     <File>ARD HD.png</File>
   </Channel>
   <Channel>
+    <Item Name="Das Erste">
+      <Satellite />
+    </Item>
     <Item Name="ARD">
       <Satellite />
     </Item>
@@ -248,7 +254,10 @@
     <Item Name="Canal8">
       <Satellite />
     </Item>
-    <Item Name="Canal 8 Sport">
+    <Item Name="Canal8">
+      <Satellite />
+    </Item>
+    <Item Name="CANAL 8 Sport">
       <Satellite />
     </Item>
     <File>Canal_8_Sport.png</File>
@@ -258,6 +267,9 @@
       <Satellite />
     </Item>
     <Item Name="Canal 9 HD">
+      <Satellite />
+    </Item>
+    <Item Name="CANAL9 HD">
       <Satellite />
     </Item>
     <File>Canal 9 HD.png</File>
@@ -383,10 +395,16 @@
     <Item Name="Cmore Action">
       <Satellite />
     </Item>
+    <Item Name="C More Action">
+      <Satellite />
+    </Item>
     <File>Cmore Action.png</File>
   </Channel>
   <Channel>
     <Item Name="Cmore Emotion">
+      <Satellite />
+    </Item>
+    <Item Name="C More Emotion">
       <Satellite />
     </Item>
     <File>Cmore Emotion.png</File>
@@ -395,10 +413,16 @@
     <Item Name="Cmore Extreme">
       <Satellite />
     </Item>
+    <Item Name="C More Extreme">
+      <Satellite />
+    </Item>
     <File>Cmore Extreme.png</File>
   </Channel>
   <Channel>
     <Item Name="Cmore First HD">
+      <Satellite />
+    </Item>
+    <Item Name="C More First HD">
       <Satellite />
     </Item>
     <File>Cmore First HD.png</File>
@@ -407,16 +431,25 @@
     <Item Name="Cmore First">
       <Satellite />
     </Item>
+    <Item Name="C More First">
+      <Satellite />
+    </Item>
     <File>Cmore First.png</File>
   </Channel>
   <Channel>
+    <Item Name="C More Hits HD">
+      <Satellite />
+    </Item>
     <Item Name="Cmore Hits HD">
       <Satellite />
     </Item>
     <File>Cmore Hits HD.png</File>
   </Channel>
   <Channel>
-    <Item Name="Cmore Hits">
+    <Item Name="CMore Hits">
+      <Satellite />
+    </Item>
+    <Item Name="C More Hits SD">
       <Satellite />
     </Item>
     <File>Cmore Hits.png</File>
@@ -425,10 +458,16 @@
     <Item Name="Cmore Kids">
       <Satellite />
     </Item>
+    <Item Name="C More Kids">
+      <Satellite />
+    </Item>
     <File>Cmore Kids.png</File>
   </Channel>
   <Channel>
     <Item Name="Cmore Live HD">
+      <Satellite />
+    </Item>
+    <Item Name="C More Live HD">
       <Satellite />
     </Item>
     <File>Cmore Live HD.png</File>
@@ -437,10 +476,16 @@
     <Item Name="Cmore Series HD">
       <Satellite />
     </Item>
+    <Item Name="C More Series HD">
+      <Satellite />
+    </Item>
     <File>Cmore Series HD.png</File>
   </Channel>
   <Channel>
     <Item Name="Cmore Series">
+      <Satellite />
+    </Item>
+    <Item Name="C More Series SD">
       <Satellite />
     </Item>
     <File>Cmore Series.png</File>
@@ -449,10 +494,16 @@
     <Item Name="Cmore Sport HD">
       <Satellite />
     </Item>
+    <Item Name="C More Sport HD">
+      <Satellite />
+    </Item>
     <File>Cmore Sport HD.png</File>
   </Channel>
   <Channel>
     <Item Name="Cmore Tennis">
+      <Satellite />
+    </Item>
+    <Item Name="C More Tennis">
       <Satellite />
     </Item>
     <File>Cmore Tennis.png</File>
@@ -507,6 +558,9 @@
       <Satellite />
     </Item>
     <Item Name="Discovery HD">
+      <Satellite />
+    </Item>
+    <Item Name="Discovery Channel HD">
       <Satellite />
     </Item>
     <File>Discovery HD.png</File>
@@ -640,10 +694,16 @@
     </Item>
     <File>DR Ramasjang.png</File>
   </Channel>
-  <Channel>
+    <Channel>
+    <Item Name="DR Synstolkning">
+      <Satellite />
+    </Item>
     <Item Name="DR Syn">
       <Satellite />
     </Item>
+    <File>DR Syn.png</File>
+  </Channel>
+  <Channel>
     <Item Name="DR 1 Syn">
       <Satellite />
     </Item>
@@ -653,13 +713,37 @@
     <Item Name="DR1Syn">
       <Satellite />
     </Item>
-    <File>DR Syn.png</File>
+    <File>DR1 Syn.png</File>
   </Channel>
   <Channel>
-    <Item Name="Ultra">
+    <Item Name="DR2 Synstolkning">
       <Satellite />
     </Item>
+    <Item Name="DR2 Syn">
+      <Satellite />
+    </Item>
+    <Item Name="DR2Syn">
+      <Satellite />
+    </Item>
+    <File>DR2 Syn.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="DR3 Synstolkning">
+      <Satellite />
+    </Item>
+    <Item Name="DR3 Syn">
+      <Satellite />
+    </Item>
+    <Item Name="DR3Syn">
+      <Satellite />
+    </Item>
+    <File>DR3 Syn.png</File>
+  </Channel>
+  <Channel>
     <Item Name="DR Ultra">
+      <Satellite />
+    </Item>
+    <Item Name="Ultra">
       <Satellite />
     </Item>
     <File>DR Ultra.png</File>
@@ -1181,6 +1265,9 @@
     <Item Name="Nat Geo Wild HD">
       <Satellite />
     </Item>
+    <Item Name="NatGeo Wild HD">
+      <Satellite />
+    </Item>
     <File>Nat Geo Wild HD.png</File>
   </Channel>
   <Channel>
@@ -1188,6 +1275,9 @@
       <Satellite />
     </Item>
     <Item Name="Nat Geo Wild">
+      <Satellite />
+    </Item>
+    <Item Name="NatGeo Wild">
       <Satellite />
     </Item>
     <File>Nat Geo Wild.png</File>
@@ -1200,6 +1290,9 @@
       <Satellite />
     </Item>
     <Item Name="National Geographic Channel HD">
+      <Satellite />
+    </Item>
+    <Item Name="NatGeo HD">
       <Satellite />
     </Item>
     <File>National Geographic Channel HD.png</File>
@@ -1262,6 +1355,12 @@
     <File>Nickelodeon.png</File>
   </Channel>
   <Channel>
+    <Item Name="NRK 1">
+      <Satellite />
+    </Item>
+    <Item Name="NRK1">
+      <Satellite />
+    </Item>
     <Item Name="NRK1HD">
       <Satellite />
     </Item>
@@ -1269,15 +1368,6 @@
       <Satellite />
     </Item>
     <Item Name="NRK1 HD">
-      <Satellite />
-    </Item>
-    <File>NRK 1 HD.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="NRK 1">
-      <Satellite />
-    </Item>
-    <Item Name="NRK1">
       <Satellite />
     </Item>
     <File>NRK 1.png</File>
@@ -1527,6 +1617,15 @@
       <Satellite />
     </Item>
     <File>STV.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Stofa Kanalen">
+      <Satellite />
+    </Item>
+    <Item Name="Stofa Event">
+      <Satellite />
+    </Item>
+    <File>Stofa.png</File>
   </Channel>
   <Channel>
     <Item Name="Super RTL">
@@ -1991,13 +2090,6 @@
     <File>TV2 Nord.png</File>
   </Channel>
   <Channel>
-    <Item Name="Norge2">
-      <Satellite />
-    </Item>
-    <Item Name="Norge 2">
-      <Satellite />
-    </Item>
-    <File>Norge2.png</File>
     <Item Name="TV2 Norge HD">
       <Satellite />
     </Item>
@@ -2007,6 +2099,12 @@
     <File>TV2 Norge HD.png</File>
   </Channel>
   <Channel>
+    <Item Name="Norge2">
+      <Satellite />
+    </Item>
+    <Item Name="Norge 2">
+      <Satellite />
+    </Item>
     <Item Name="TV2 Norge">
       <Satellite />
     </Item>
@@ -2088,10 +2186,10 @@
     <File>TV2 Øst.png</File>
   </Channel>
   <Channel>
-    <Item Name="TV2 Østjylland HD">
+    <Item Name="TV 2 Østjylland HD">
       <Satellite />
     </Item>
-    <Item Name="TV 2 Østjylland HD">
+    <Item Name="TV 2 | Danmark HD (Østjylland)">
       <Satellite />
     </Item>
     <File>TV2 Østjylland HD.png</File>
@@ -2101,6 +2199,9 @@
       <Satellite />
     </Item>
     <Item Name="TV 2 Østjylland">
+      <Satellite />
+    </Item>
+    <Item Name="Østjylland">
       <Satellite />
     </Item>
     <File>TV2 Østjylland.png</File>
@@ -2196,6 +2297,9 @@
     <Item Name="TV 3+ HD">
       <Satellite />
     </Item>
+    <Item Name="TV3 HD Danmark">
+      <Satellite />
+    </Item>
     <File>TV3+ HD.png</File>
   </Channel>
   <Channel>
@@ -2217,6 +2321,9 @@
     <File>TV3.png</File>
   </Channel>
   <Channel>
+    <Item Name="TV4 Sverige HD">
+      <Satellite />
+    </Item>
     <Item Name="TV4 Sverige">
       <Satellite />
     </Item>
@@ -2313,10 +2420,19 @@
     <Item Name="Explor">
       <Satellite />
     </Item>
-    <Item Name="Viasat Explorer">
+    <Item Name="Viasat Explore">
       <Satellite />
     </Item>
-    <File>Viasat Explorer.png</File>
+    <File>Viasat Explore.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="ExplorHD">
+      <Satellite />
+    </Item>
+    <Item Name="Viasat Explore HD">
+      <Satellite />
+    </Item>
+    <File>Viasat Explore HD.png</File>
   </Channel>
   <Channel>
     <Item Name="Viasat Film Action HD">
@@ -2335,6 +2451,12 @@
       <Satellite />
     </Item>
     <File>Viasat Film Classic.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Viasat Film Comedy">
+      <Satellite />
+    </Item>
+    <File>Viasat Film Comedy.png</File>
   </Channel>
   <Channel>
     <Item Name="Viasat Film Drama HD">
@@ -2443,6 +2565,21 @@
       <Satellite />
     </Item>
     <Item Name="Viasat Nature+Crime">
+      <Satellite />
+    </Item>
+    <Item Name="Viasat Nature/Crime">
+      <Satellite />
+    </Item>
+    <File>Viasat Nature+Crime.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Via NC HD">
+      <Satellite />
+    </Item>
+    <Item Name="Viasat Nature+Crime HD">
+      <Satellite />
+    </Item>
+    <Item Name="Viasat Nature/Crime HD">
       <Satellite />
     </Item>
     <File>Viasat Nature+Crime.png</File>
@@ -2854,10 +2991,7 @@
     <File>SR P4.png</File>
   </Channel>
   <Channel>
-    <Item Name="The Voice Tv">
-      <Satellite />
-    </Item>
-    <Item Name="Voice Tv">
+    <Item Name="Voice">
       <Satellite />
     </Item>
     <Item Name="The Voice">
